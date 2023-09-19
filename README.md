@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm Linus, an 10th grade student from Germany.
+I'm Linus, an 11th grade student from Germany.
 
 I'm interested in Game development, Web design and Linux stuff.
 
