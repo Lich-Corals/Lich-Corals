@@ -2,7 +2,9 @@
 
 I'm Linus, an 11th grade student from Germany.
 
-I'm interested in Game development, Web design and Linux stuff.
+I'm a young developer experimenting with programming languages and development software.
+I mainly use Python, and I'm currently trying to get familiar with Rust.
+My first published project is a [https://github.com/Lich-Corals/linux-file-converter-addon](context-menu file converter) for different Linux file viewers.
 
 ### Languages and Tools
 
