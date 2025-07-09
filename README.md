@@ -3,12 +3,12 @@
 I'm Linus, an 11th grade student from Germany.
 
 I'm a young developer experimenting with programming languages and development software.
-I mainly use Python, and I'm currently trying to get familiar with Rust.
+I mainly use Python, and I'm currently getting familiar with Rust.
 My first published project is a [context-menu file converter](https://github.com/Lich-Corals/linux-file-converter-addon) for different Linux file viewers.
 ### Languages and Tools
 
 [![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
-[![Mozilla Logo](https://img.shields.io/badge/-Mozilla%20Addons-161616?style=for-the-badge&logo=mozilla&logoColor=white)](https://next.nexusmods.com/profile/LichCorals)
+[![Mozilla Logo](https://img.shields.io/badge/-Mozilla%20Addons-161616?style=for-the-badge&logo=mozilla&logoColor=white)](https://addons.mozilla.org/user/18412020/)
 [![Nexus Logo](https://img.shields.io/badge/-Nexus%20Mods-E6832B?style=for-the-badge&logo=nexusmods&logoColor=white)](https://next.nexusmods.com/profile/LichCorals)
 [![Linux Logo](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)]()
 [![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
