@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm Linus, an 11th grade student from Germany.
+I'm Linus, a 12th grade student from Germany.
 
 I'm a young developer experimenting with programming languages and development software.
 I mainly use Python, and I'm currently getting familiar with Rust.
