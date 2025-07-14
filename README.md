@@ -20,7 +20,3 @@ My first published project is a [context-menu file converter](https://github.com
 
 ### Support me
 [![Coffee Logo](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coff.ee/lichcorals)
-
-![Linus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Lich-Corals&show_icons=true&theme=dracula)
-
-
