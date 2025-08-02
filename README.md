@@ -14,10 +14,12 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 
 ### Languages and tools I use
 [![Linux Logo](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)]()
-[![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
 [![Rust Logo](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
-[![HTML5 Logo](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)]()
+[![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
+[![Godot Logo](https://img.shields.io/badge/-godotengine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)]()
+[![LaTeX Logo](https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white)]()
 [![CSS3 Logo](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)]()
+[![HTML5 Logo](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)]()
 
 ### Support me
 [![Coffee Logo](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coff.ee/lichcorals)
