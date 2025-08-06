@@ -28,7 +28,7 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 | [Firefox Blåhaj themes](https://addons.mozilla.org/user/18412020/) | published |
 | [Cyberpunk-Blåhaj-Ads](https://github.com/Lich-Corals/cyberpunk-blahaj-ads) | published |
 | [Movement-RS](https://github.com/Lich-Corals/movement-rs) | published |
-| UG-Tab-Scraper-RS | publishing soon! |
+| [UG-Scraper-RS](https://github.com/Lich-Corals/ug-scraper-rs/) | published |
 | UG-Tab-Sync-For-Spotify-RS (working title) | in development |
 | The Obligatory Junior-Dev-Platformer-Game | in development |
 
