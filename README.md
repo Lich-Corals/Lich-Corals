@@ -10,6 +10,7 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 ### Published stuff
 [![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
 [![Mozilla Logo](https://img.shields.io/badge/-Mozilla%20Addons-161616?style=for-the-badge&logo=mozilla&logoColor=white)](https://addons.mozilla.org/user/18412020/)
+[![Crates](https://img.shields.io/badge/-Crates.io-ffc933?style=for-the-badge&logo=rust&logoColor=black)](https://crates.io/users/Lich-Corals)
 [![Nexus Logo](https://img.shields.io/badge/-Nexus%20Mods-E6832B?style=for-the-badge&logo=nexusmods&logoColor=white)](https://next.nexusmods.com/profile/LichCorals)
 
 ### Languages and tools I use
