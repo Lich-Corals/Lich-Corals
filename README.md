@@ -30,7 +30,7 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 | [Cyberpunk-Blåhaj-Ads](https://github.com/Lich-Corals/cyberpunk-blahaj-ads) | published |
 | [Movement-RS](https://github.com/Lich-Corals/movement-rs) | published |
 | [UG-Scraper-RS](https://github.com/Lich-Corals/ug-scraper-rs/) | published |
-| UG-Tab-Sync-For-Spotify-RS (working title) | in development |
+| [Coral-Chords](https://github.com/Lich-Corals/coral-chords/) | published |
 | The Obligatory Junior-Dev-Platformer-Game | in development |
 
 ### Support me
