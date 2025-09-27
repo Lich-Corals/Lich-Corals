@@ -28,10 +28,15 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 | [Linux-File-Converter-Addon](https://github.com/Lich-Corals/linux-file-converter-addon) | published |
 | [Firefox Blåhaj themes](https://addons.mozilla.org/user/18412020/) | published |
 | [Cyberpunk-Blåhaj-Ads](https://github.com/Lich-Corals/cyberpunk-blahaj-ads) | published |
-| [Movement-RS](https://github.com/Lich-Corals/movement-rs) | published |
 | [UG-Scraper-RS](https://github.com/Lich-Corals/ug-scraper-rs/) | published |
 | [Coral-Chords](https://github.com/Lich-Corals/coral-chords/) | published |
 | The Obligatory Junior-Dev-Platformer-Game | in development |
+
+#### Playground projects
+| Project | Description |
+| - | - |
+| [Movement-RS](https://github.com/Lich-Corals/movement-rs) | Shape names from mouse movement |
+| [Talkative-Rick](https://github.com/Lich-Corals/talkative-rick) | Talking-Rick animation based on audio volume |
 
 ### Support me
 [![Coffee Logo](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coff.ee/lichcorals)
