@@ -31,6 +31,7 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 | [UG-Scraper-RS](https://github.com/Lich-Corals/ug-scraper-rs/) | published |
 | [Coral-Chords](https://github.com/Lich-Corals/coral-chords/) | published |
 | The Obligatory Junior-Dev-Platformer-Game | in development |
+| A minimal terminal calculator | in development |
 
 #### Playground projects
 | Project | Description |
