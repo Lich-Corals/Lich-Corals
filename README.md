@@ -16,6 +16,7 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 ### Languages and tools I use
 [![Linux Logo](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)]()
 [![Rust Logo](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
+![GO](https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&logoSize=auto)
 [![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
 [![Godot Logo](https://img.shields.io/badge/-godotengine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)]()
 [![LaTeX Logo](https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white)]()
@@ -30,6 +31,7 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 | [Cyberpunk-Blåhaj-Ads](https://github.com/Lich-Corals/cyberpunk-blahaj-ads) | published |
 | [UG-Scraper-RS](https://github.com/Lich-Corals/ug-scraper-rs/) | published |
 | [Coral-Chords](https://github.com/Lich-Corals/coral-chords/) | published |
+| [Coral-CTC-Terminal-Calculator](https://github.com/Lich-Corals/coral-ctc-terminal-calculator) | published |
 | The Obligatory Junior-Dev-Platformer-Game | in development |
 | A minimal terminal calculator | in development |
 
