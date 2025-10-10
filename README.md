@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm Linus, a 12th grade student from Germany.
+I'm Jax, a 12th grade student from Germany.
 
 I'm a young developer experimenting with programming languages and development software.
 <br/>I mainly use Python, and I'm currently getting familiar with Rust by creating a bunch of small side projects and by re creating my obligatory junior-dev-platformer-game, which I abandoned years ago, in Godot with [gdext Rust bindings](https://github.com/godot-rust/gdext).
