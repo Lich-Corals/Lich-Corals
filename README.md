@@ -3,7 +3,7 @@
 I'm Jax, a 12th grade student from Germany.
 
 I'm a young developer experimenting with programming languages and development software.
-<br/>I mainly use Python, and I'm currently getting familiar with Rust by creating a bunch of small side projects and by re creating my obligatory junior-dev-platformer-game, which I abandoned years ago, in Godot with [gdext Rust bindings](https://github.com/godot-rust/gdext).
+<br/>I mainly use Rust, but I also know how to use Python and I'm currently getting familiar with Go (Golang).
 <br/>My first published project is a [context-menu file converter](https://github.com/Lich-Corals/linux-file-converter-addon) for different Linux file viewers.
 I have also created a few [themes for Firefox](https://addons.mozilla.org/user/18412020/) and a few applications like a [terminal calculator](https://github.com/Lich-Corals/coral-ctc-terminal-calculator) and a [custom desktop client for Ultimate Guitar](https://github.com/Lich-Corals/coral-chords/). A full list of my projects is below.
 
