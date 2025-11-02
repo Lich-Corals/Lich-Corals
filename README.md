@@ -43,3 +43,9 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 
 ### Support me
 [![Coffee Logo](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coff.ee/lichcorals)
+
+### Media in this Repository
+Some of my created media is stored in this repository in the `images` directory.
+Furthermore there is a Blåhaj-theme for chrome based web-browsers, which is not available in the web-store but here, in the `themes` directory.
+
+Everything in this repository, including the media mentioned above, is licensed under the [licence provided in the repository](https://github.com/Lich-Corals/Lich-Corals/blob/main/LICENCE) and may be used by everyone, as long as they adhere the rules of the licence.
