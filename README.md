@@ -42,11 +42,11 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 | [Talkative-Rick](https://github.com/Lich-Corals/talkative-rick) | Talking-Rick animation based on audio volume | - |
 | [Converter-Addon-Adaption-UI](https://github.com/Lich-Corals/converter_addon_adaption_ui) | New UI component for file-converter format selection | [Linux-File-Converter-Addon](https://github.com/Lich-Corals/linux-file-converter-addon) |
 
-### Support me
-[![Coffee Logo](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coff.ee/lichcorals)
-
 ### Media in this Repository
 Some of my created media is stored in this repository in the [`images`](https://github.com/Lich-Corals/Lich-Corals/tree/main/images) directory.
 Furthermore there is a Blåhaj-theme for chrome based web-browsers, which is not available in the web-store but here, in the [`themes`](https://github.com/Lich-Corals/Lich-Corals/tree/main/themes) directory.
 
 Everything in this repository, including the media mentioned above, is licensed under the [licence provided in the repository](https://github.com/Lich-Corals/Lich-Corals/blob/main/LICENCE) and may be used by everyone, as long as they adhere the rules of the licence.
+
+### Support me
+[![Coffee Logo](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coff.ee/lichcorals)
