@@ -35,11 +35,12 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 | [Coral-CTC-Terminal-Calculator](https://github.com/Lich-Corals/coral-ctc-terminal-calculator) | published |
 | The Obligatory Junior-Dev-Platformer-Game | in development |
 
-#### Playground projects
-| Project | Description |
-| - | - |
-| [Movement-RS](https://github.com/Lich-Corals/movement-rs) | Shape names from mouse movement |
-| [Talkative-Rick](https://github.com/Lich-Corals/talkative-rick) | Talking-Rick animation based on audio volume |
+#### Side projects and sub projects
+| Project | Description | Parent |
+| - | - | - |
+| [Movement-RS](https://github.com/Lich-Corals/movement-rs) | Shape names from mouse movement | - |
+| [Talkative-Rick](https://github.com/Lich-Corals/talkative-rick) | Talking-Rick animation based on audio volume | - |
+| [Converter-Addon-Adaption-UI](https://github.com/Lich-Corals/converter_addon_adaption_ui) | New UI component for file-converter format selection | [Linux-File-Converter-Addon](https://github.com/Lich-Corals/linux-file-converter-addon) |
 
 ### Support me
 [![Coffee Logo](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coff.ee/lichcorals)
