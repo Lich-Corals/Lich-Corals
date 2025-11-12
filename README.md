@@ -7,6 +7,14 @@ I'm a young developer experimenting with programming languages and development s
 <br/>My first published project is a [context-menu file converter](https://github.com/Lich-Corals/linux-file-converter-addon) for different Linux file viewers.
 I have also created a few [themes for Firefox](https://addons.mozilla.org/user/18412020/) and a few applications like a [terminal calculator](https://github.com/Lich-Corals/coral-ctc-terminal-calculator) and a [custom desktop client for Ultimate Guitar](https://github.com/Lich-Corals/coral-chords/). A full list of my projects is below.
 
+> [!IMPORTANT]  
+> For and Microsoft- and _other_ reasons, I am currently migrating my repositories to Codeberg.
+> This will mainly effect support, which will be available on Codeberg as soon as the ropository has been moved.
+>
+> To support me on Codeberg, consider following me and starring your favourite projects.
+> 
+> [![Codeberg](https://img.shields.io/badge/-view_on_codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/Lich-Corals)
+
 ### Published stuff
 [![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
 [![Sourceforge](https://img.shields.io/badge/-Sourceforge-FF6600?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/lich-corals/profile/)
