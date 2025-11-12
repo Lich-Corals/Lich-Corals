@@ -38,17 +38,17 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 | [Linux-File-Converter-Addon](https://github.com/Lich-Corals/linux-file-converter-addon) | published |
 | [Firefox Blåhaj themes](https://addons.mozilla.org/user/18412020/) | published |
 | [Cyberpunk-Blåhaj-Ads](https://github.com/Lich-Corals/cyberpunk-blahaj-ads) | published |
-| [UG-Scraper-RS](https://github.com/Lich-Corals/ug-scraper-rs/) | published |
-| [Coral-Chords](https://github.com/Lich-Corals/coral-chords/) | published |
-| [Coral-CTC-Terminal-Calculator](https://github.com/Lich-Corals/coral-ctc-terminal-calculator) | published |
+| [UG-Scraper-RS](https://codeberg.org/Lich-Corals/ug-scraper-rs/) | moved to Codeberg |
+| [Coral-Chords](https://codeberg.org/Lich-Corals/coral-chords/) | moved to Codeberg |
+| [Coral-CTC-Terminal-Calculator](https://codeberg.org/Lich-Corals/coral-ctc-terminal-calculator) | moved to Codeberg |
 | The Obligatory Junior-Dev-Platformer-Game | in development |
 
 #### Side projects and sub projects
-| Project | Description | Parent |
-| - | - | - |
-| [Movement-RS](https://github.com/Lich-Corals/movement-rs) | Shape names from mouse movement | - |
-| [Talkative-Rick](https://github.com/Lich-Corals/talkative-rick) | Talking-Rick animation based on audio volume | - |
-| [Converter-Addon-Adaption-UI](https://github.com/Lich-Corals/converter_addon_adaption_ui) | New UI component for file-converter format selection | [Linux-File-Converter-Addon](https://github.com/Lich-Corals/linux-file-converter-addon) |
+| Project | Description | Parent | Status |
+| - | - | - | - |
+| [Movement-RS](https://github.com/Lich-Corals/movement-rs) | Shape names from mouse movement | - | published |
+| [Talkative-Rick](https://github.com/Lich-Corals/talkative-rick) | Talking-Rick animation based on audio volume | - | published |
+| [Converter-Addon-Adaption-UI](https://codeberg.org/Lich-Corals/converter_addon_adaption_ui) | New UI component for file-converter format selection | [Linux-File-Converter-Addon](https://codeberg.org/Lich-Corals/linux-file-converter-addon) | moved to Codeberg |
 
 ### Media in this Repository
 Some of my created media is stored in this repository in the [`images`](https://github.com/Lich-Corals/Lich-Corals/tree/main/images) directory.
