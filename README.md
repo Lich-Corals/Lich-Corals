@@ -13,7 +13,7 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 >
 > To support me on Codeberg, consider following me and starring your favourite projects.
 > 
-> [![Codeberg](https://img.shields.io/badge/-view_on_codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/Lich-Corals)
+> [![Codeberg](https://img.shields.io/badge/-checkout_codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/Lich-Corals)
 
 ### Published stuff
 [![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
