@@ -35,13 +35,13 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 ### The never-shrinking stack of ongoing projects
 | Project | Status |
 | - | - |
-| [Linux-File-Converter-Addon](https://github.com/Lich-Corals/linux-file-converter-addon) | published |
+| [Linux-File-Converter-Addon](https://github.com/Lich-Corals/linux-file-converter-addon) | moved to codeberg |
 | [Firefox Blåhaj themes](https://addons.mozilla.org/user/18412020/) | published |
 | [Cyberpunk-Blåhaj-Ads](https://github.com/Lich-Corals/cyberpunk-blahaj-ads) | published |
 | [UG-Scraper-RS](https://codeberg.org/Lich-Corals/ug-scraper-rs/) | moved to Codeberg |
 | [Coral-Chords](https://codeberg.org/Lich-Corals/coral-chords/) | moved to Codeberg |
 | [Coral-CTC-Terminal-Calculator](https://codeberg.org/Lich-Corals/coral-ctc-terminal-calculator) | moved to Codeberg |
-| The Obligatory Junior-Dev-Platformer-Game | in development |
+| The Obligatory Junior-Dev-Platformer-Game | unknown??? |
 
 #### Side projects and sub projects
 | Project | Description | Parent | Status |
