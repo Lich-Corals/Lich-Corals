@@ -8,7 +8,7 @@ I'm a young developer experimenting with programming languages and development s
 I have also created a few [themes for Firefox](https://addons.mozilla.org/user/18412020/) and a few applications like a [terminal calculator](https://github.com/Lich-Corals/coral-ctc-terminal-calculator) and a [custom desktop client for Ultimate Guitar](https://github.com/Lich-Corals/coral-chords/). A full list of my projects is below.
 
 > [!IMPORTANT]  
-> For and Microsoft- and _other_ reasons, I am currently migrating my repositories to Codeberg.
+> For Microsoft- and _other_ reasons, I am currently migrating my repositories to Codeberg.
 > This will mainly effect support, which will be available on Codeberg as soon as the ropository has been moved.
 >
 > To support me on Codeberg, consider following me and starring your favourite projects.
