@@ -35,7 +35,7 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 ### The never-shrinking stack of ongoing projects
 | Project | Status |
 | - | - |
-| [Linux-File-Converter-Addon](https://github.com/Lich-Corals/linux-file-converter-addon) | moved to Codeberg |
+| [Linux-File-Converter-Addon](https://codeberg.org/Lich-Corals/linux-file-converter-addon) | moved to Codeberg |
 | [Firefox Blåhaj themes](https://addons.mozilla.org/user/18412020/) | published |
 | [Cyberpunk-Blåhaj-Ads](https://github.com/Lich-Corals/cyberpunk-blahaj-ads) | published |
 | [UG-Scraper-RS](https://codeberg.org/Lich-Corals/ug-scraper-rs/) | moved to Codeberg |
