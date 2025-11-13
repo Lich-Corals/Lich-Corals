@@ -46,8 +46,8 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 #### Side projects and sub projects
 | Project | Description | Parent | Status |
 | - | - | - | - |
-| [Movement-RS](https://github.com/Lich-Corals/movement-rs) | Shape names from mouse movement | - | published |
-| [Talkative-Rick](https://github.com/Lich-Corals/talkative-rick) | Talking-Rick animation based on audio volume | - | published |
+| [Movement](https://codeberg.org/Lich-Corals/movement) | Shape names from mouse movement | - | moved to Codeberg |
+| [Talkative-Rick](https://codeberg.org/Lich-Corals/talkative-rick) | Talking-Rick animation based on audio volume | - | moved to Codeberg |
 | [Converter-Addon-Adaption-UI](https://codeberg.org/Lich-Corals/converter_addon_adaption_ui) | New UI component for file-converter format selection | [Linux-File-Converter-Addon](https://codeberg.org/Lich-Corals/linux-file-converter-addon) | moved to Codeberg |
 
 ### Media in this Repository
