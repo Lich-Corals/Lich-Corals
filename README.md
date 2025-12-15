@@ -16,8 +16,8 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 > [![Codeberg](https://img.shields.io/badge/-checkout_codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/Lich-Corals)
 
 ### Published stuff
-[![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
-[![Sourceforge](https://img.shields.io/badge/-Sourceforge-FF6600?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/lich-corals/profile/)
+[![Website](https://img.shields.io/badge/-My_Website-F70077?style=for-the-badge)](https://lich-corals.de/projects/)
+[![Codeberg](https://img.shields.io/badge/-Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/Lich-Corals/)
 [![Mozilla Logo](https://img.shields.io/badge/-Mozilla%20Addons-161616?style=for-the-badge&logo=mozilla&logoColor=white)](https://addons.mozilla.org/user/18412020/)
 [![Crates](https://img.shields.io/badge/-Crates.io-ffc933?style=for-the-badge&logo=rust&logoColor=black)](https://crates.io/users/Lich-Corals)
 [![Nexus Logo](https://img.shields.io/badge/-Nexus%20Mods-E6832B?style=for-the-badge&logo=nexusmods&logoColor=white)](https://next.nexusmods.com/profile/LichCorals)
@@ -35,20 +35,20 @@ I have also created a few [themes for Firefox](https://addons.mozilla.org/user/1
 ### The never-shrinking stack of ongoing projects
 | Project | Status |
 | - | - |
-| [Linux-File-Converter-Addon](https://codeberg.org/Lich-Corals/linux-file-converter-addon) | moved to Codeberg |
-| [Firefox Blåhaj themes](https://addons.mozilla.org/user/18412020/) | published |
-| [Cyberpunk-Blåhaj-Ads](https://codeberg.org/Lich-Corals/cyberpunk-blahaj-ads) | moved to Codeberg |
-| [UG-Scraper-RS](https://codeberg.org/Lich-Corals/ug-scraper-rs/) | moved to Codeberg |
-| [Coral-Chords](https://codeberg.org/Lich-Corals/coral-chords/) | moved to Codeberg |
-| [Coral-CTC-Terminal-Calculator](https://codeberg.org/Lich-Corals/coral-ctc-terminal-calculator) | moved to Codeberg |
+| [Linux-File-Converter-Addon](https://lich-corals.de/projects/linux-file-converter-addon/) | moved to Codeberg |
+| [Blåhaj browser themes](https://lich-corals.de/projects/blahaj-browser-themes/) | published |
+| [Cyberpunk-Blåhaj-Ads](https://lich-corals.de/projects/cyberpunk-blahaj-ads/) | moved to Codeberg |
+| [UG-Scraper-RS](https://lich-corals.de/projects/ug-scraper-rs/) | moved to Codeberg |
+| [Coral-Chords](https://lich-corals.de/projects/coral-chords/) | moved to Codeberg |
+| [Coral-CTC-Terminal-Calculator](https://lich-corals.de/projects/ctc-terminal-calculator/) | moved to Codeberg |
 | The Obligatory Junior-Dev-Platformer-Game | unknown??? |
 
 #### Side projects and sub projects
 | Project | Description | Parent | Status |
 | - | - | - | - |
-| [Movement](https://codeberg.org/Lich-Corals/movement) | Shape names from mouse movement | - | moved to Codeberg |
-| [Talkative-Rick](https://codeberg.org/Lich-Corals/talkative-rick) | Talking-Rick animation based on audio volume | - | moved to Codeberg |
-| [Converter-Addon-Adaption-UI](https://codeberg.org/Lich-Corals/converter_addon_adaption_ui) | New UI component for file-converter format selection | [Linux-File-Converter-Addon](https://codeberg.org/Lich-Corals/linux-file-converter-addon) | moved to Codeberg |
+| [Movement](https://lich-corals.de/projects/cyberpunk-blahaj-ads/) | Shape names from mouse movement | - | moved to Codeberg |
+| [Talkative-Rick](https://lich-corals.de/projects/talkative-rick/) | Talking-Rick animation based on audio volume | - | moved to Codeberg |
+| [Converter-Addon-Adaption-UI](https://codeberg.org/Lich-Corals/converter_addon_adaption_ui) | New UI component for file-converter format selection | [Linux-File-Converter-Addon](https://lich-corals.de/projects/linux-file-converter-addon/) | moved to Codeberg |
 
 ### Media in this Repository
 Some of my created media is stored in this repository in the [`images`](https://github.com/Lich-Corals/Lich-Corals/tree/main/images) directory.
